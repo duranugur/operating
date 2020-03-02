@@ -1,0 +1,294 @@
+2019-09-10 14:48:00 +0300 [I]  VM: All install checks pass
+2019-09-10 14:48:05 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2019-09-10 11:47:59 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2019-09-10 11:47:59 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 3971159;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeRegular;
+}
+
+2019-09-10 14:48:05 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-09-10 11:48:02 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 45;
+    NSFileSize = 1440;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2019-10-09 21:36:47 +0300 [I]  VM: All install checks pass
+2019-10-09 21:36:52 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2019-10-09 18:36:46 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2019-10-09 18:36:46 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 6577385;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2019-10-09 21:36:52 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-10-09 18:36:49 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 45;
+    NSFileSize = 1440;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2019-11-13 21:46:00 +0300 [I]  VM: All install checks pass
+2019-11-13 21:46:05 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2019-11-13 18:45:59 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2019-11-13 18:45:59 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 10889922;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2019-11-13 21:46:05 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-11-13 18:46:00 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 57;
+    NSFileSize = 1824;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2019-12-10 23:08:20 +0300 [I]  VM: All install checks pass
+2019-12-10 23:08:25 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2019-12-10 20:08:18 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2019-12-10 20:08:18 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 13683885;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2019-12-10 23:08:25 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-12-10 20:08:20 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 52;
+    NSFileSize = 1664;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2020-01-14 19:02:44 +0300 [I]  VM: All install checks pass
+2020-01-14 19:02:50 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2020-01-14 16:02:41 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2020-01-14 16:02:41 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 16267194;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeRegular;
+}
+
+2020-01-14 19:02:50 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2020-01-14 16:02:45 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 74;
+    NSFileSize = 2368;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777221;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2020-01-21 16:35:14 +0300 [I]  VM: All install checks pass
+2020-01-21 16:35:20 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2020-01-21 13:35:12 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2020-01-21 13:35:12 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 16828075;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeRegular;
+}
+
+2020-01-21 16:35:20 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2020-01-21 13:35:15 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 106;
+    NSFileSize = 3392;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+
+2020-02-12 10:14:18 +0300 [I]  VM: All install checks pass
+2020-02-12 10:14:25 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2020-02-12 07:14:15 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2020-02-12 07:14:15 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49856;
+    NSFileSystemFileNumber = 17958201;
+    NSFileSystemNumber = 16777223;
+    NSFileType = NSFileTypeRegular;
+}
+
+2020-02-12 10:14:25 +0300 [E]  RA: 
+Attributes for '/var/folders/7l/fbp89zcx271dpbm58_2ykr9c0000gn/T':
+ {
+    NSFileCreationDate = "2019-08-12 11:49:56 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2020-02-12 07:14:18 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = ugurduran;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 102;
+    NSFileSize = 3264;
+    NSFileSystemFileNumber = 1426480;
+    NSFileSystemNumber = 16777223;
+    NSFileType = NSFileTypeDirectory;
+}
+
